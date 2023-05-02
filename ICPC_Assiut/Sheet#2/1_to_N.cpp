@@ -12,7 +12,7 @@ int main()
     while(s <= n)
     {
         cout << s << endl;
-        s++;
+        s = s + 1;
     }
 
     return 0;
