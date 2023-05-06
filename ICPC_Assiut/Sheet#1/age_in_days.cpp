@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int n,day,month,year;
+    int n;
 
     cin >> n; // 400
     
