@@ -17,7 +17,4 @@ int main()
         cout<<reversed<<endl<<"YES\n";
     else
         cout<<reversed<<endl<<"NO\n";
-
-
-
 }
